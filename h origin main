@@ -1,0 +1,10 @@
+[33md09b262[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add cart context
+[33m918d1bc[m[33m ([m[1;31morigin/main[m[33m)[m Add frontend components
+[33m99b7f75[m Add Django admin static files
+[33me2c7122[m Add products migrations
+[33m8f79ad5[m Add products tests and views
+[33ma1f1c23[m Add products models and serializers
+[33m63abc89[m Add products app setup and product image
+[33mf45e3eb[m Add orders migrations
+[33m4029fd2[m Add orders utilities and views
+[33m231eaaf[m Add frontend public asset and API module
